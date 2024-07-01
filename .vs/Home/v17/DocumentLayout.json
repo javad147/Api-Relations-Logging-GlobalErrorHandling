@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homework\\Home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|c:\\users\\user\\desktop\\homework\\home\\home\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|solutionrelative:home\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|c:\\users\\user\\desktop\\homework\\home\\home\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|solutionrelative:home\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|c:\\users\\user\\desktop\\homework\\home\\home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803AA3FE-69A1-461F-8743-7E152E6F5C66}|Home\\Home.csproj|solutionrelative:home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Home\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Services\\ProductService.cs",
+              "RelativeToolTip": "Home\\Services\\ProductService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:28:51.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Home\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Services\\IProductService.cs",
+              "RelativeToolTip": "Home\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:28:25.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Program.cs",
+              "RelativeDocumentMoniker": "Home\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homework\\Home\\Home\\Program.cs",
+              "RelativeToolTip": "Home\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:24:46.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

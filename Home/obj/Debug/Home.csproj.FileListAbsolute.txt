@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\Home\Home\bin\Debug\Home.exe.config
+C:\Users\User\Desktop\Homework\Home\Home\bin\Debug\Home.exe
+C:\Users\User\Desktop\Homework\Home\Home\bin\Debug\Home.pdb
+C:\Users\User\Desktop\Homework\Home\Home\obj\Debug\Home.exe
+C:\Users\User\Desktop\Homework\Home\Home\obj\Debug\Home.pdb
